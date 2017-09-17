@@ -1,3 +1,6 @@
-# computationalphysics_N2015301110096
-2017蔡浩老师计算物理课程作业（彭桓武班--苗泰民--2015301110096）
-第一次作业链接computationalphysics_N2015301110096/Exercise_01.py
+# 蔡浩老师计算物理作业集
+彭桓武班    苗泰民   2015301110096
+
+------
+
+第一次作业链接:   [Exercise1：show my name on the screen](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_01.py)
