@@ -1,2 +1,3 @@
 # computationalphysics_N2015301110096
 2017蔡浩老师计算物理课程作业（彭桓武班--苗泰民--2015301110096）
+第一次作业链接computationalphysics_N2015301110096/Exercise_01.py
