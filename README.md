@@ -3,4 +3,4 @@
 
 ------
 
-第一次作业链接:   [Exercise1：show my name on the screen](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_01.py)
+第一次作业链接:   [Exercise1：show my name on the screen](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_01/Exercise_01.py)
