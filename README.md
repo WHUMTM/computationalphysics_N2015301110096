@@ -7,4 +7,4 @@
 
 第二次作业链接:    [Exercise2: moving my name on the screen](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_02/Exercise_02.md)
 
-第三次作业链接:   [Exercise3: Homework for chapter 1](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_03/readme.md)
+第三次作业链接:    [Exercise3: Homework for chapter 1](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_03/readme.md)
