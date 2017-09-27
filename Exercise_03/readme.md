@@ -14,7 +14,7 @@
   `problem 1.4.md` 即为GitHubb版本作业报告，待日后格式问题解决在做补充。
 链接如下
 
-[problem1.1  作业部落](https://www.zybuluo.com/TimMu/note/899200) 
+[problem1.1  作业部落](https://www.zybuluo.com/TimMu/note/899126) 
 -------
 完成进度
 ------
