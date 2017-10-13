@@ -9,4 +9,4 @@
 
 第三次作业链接:    [Exercise3: Homework for chapter 1](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_03/readme.md)
 
-第四次作业链接：   [Exercise4: Homework for chapter 2](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_04/readme.md)
+第四次作业链接:   [Exercise4: Homework for chapter 2](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_04/readme.md)
