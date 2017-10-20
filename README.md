@@ -11,4 +11,4 @@
 
 第四次作业链接:   [Exercise4: Homework for chapter 2](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_04/readme.md)
 
-第五次作业链接:   [Exercise4: Homework for chapter 2]（https://www.zybuluo.com/TimMu/note/920445）
+第五次作业链接:   [Exercise4: Homework for baseball](https://www.zybuluo.com/TimMu/note/920445)
