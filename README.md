@@ -11,4 +11,6 @@
 
 第四次作业链接:   [Exercise4: Homework for chapter 2](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_04/readme.md)
 
-第五次作业链接:   [Exercise4: Homework for baseball](https://www.zybuluo.com/TimMu/note/920445)
+第五次作业链接:   [Exercise5: Homework for baseball](https://www.zybuluo.com/TimMu/note/920445)
+
+第六次作业链接： [Exercise6: homework for choatic pendulum](https://www.zybuluo.com/TimMu/note/930608)
