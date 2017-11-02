@@ -14,3 +14,5 @@
 第五次作业链接:   [Exercise5: Homework for baseball](https://www.zybuluo.com/TimMu/note/920445)
 
 第六次作业链接： [Exercise6: homework for choatic pendulum](https://www.zybuluo.com/TimMu/note/930608)
+
+第七次作业链接:  [Exercise7:Period Doubling](https://www.zybuluo.com/TimMu/note/937024)
