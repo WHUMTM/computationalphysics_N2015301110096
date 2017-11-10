@@ -15,6 +15,6 @@
 
 第六次作业链接： [Exercise6: homework for choatic pendulum](https://www.zybuluo.com/TimMu/note/930608)
 
-第七次作业链接:   [Exercise7: Period Doubling](https://www.zybuluo.com/TimMu/note/937024)
+第七次作业链接：  [Exercise7: Period Doubling](https://www.zybuluo.com/TimMu/note/937024)
 
 第八次作业链接： [Exercise8: The Billiard Porblem](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_08/readme.md)
