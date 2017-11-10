@@ -18,3 +18,4 @@
 第七次作业链接：  [Exercise7: Period Doubling](https://www.zybuluo.com/TimMu/note/937024)
 
 第八次作业链接： [Exercise8: The Billiard Porblem](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_08/readme.md)
+期中作业链接：[pygame:Flappy Bird](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Mid-term%20homework/readme)
