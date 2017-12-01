@@ -10,14 +10,14 @@
 ------------
 这个程序的所有素材均来源于游戏原始的素材并经过适当的缩放，令我惊喜的是，所有的素材竟然来源于一样图片，`atlas.png`，这张图片是从游戏本身的apk安装包中提取
 出来。
-源码使用python3.6编写，需要pygame安装包的支持
+源码使用`python3.6`编写，需要`pygame`安装包的支持
 
 
 
 运行
 ---------
 - [点击此处](https://github.com/WHUMTM/computationalphysics_N2015301110096/raw/master/Mid-term%20homework/FlappyBird.7z)下载游戏程序，
-解压后运行flappybrid.py程序即可
+解压后运行`flappybrid.py`程序即可
 
 - 或者从[素材池](https://github.com/WHUMTM/computationalphysics_N2015301110096/tree/master/Mid-term%20homework)中找到[FlappyBrid.7z](https://github.com/WHUMTM/computationalphysics_N2015301110096/raw/master/Mid-term%20homework/FlappyBird.7z)下载同样操作运行即可
 
