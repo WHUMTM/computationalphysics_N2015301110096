@@ -36,19 +36,19 @@
 游戏展示
 ---------
 
-#开始界面
+- 开始界面
 
 ![1](https://raw.githubusercontent.com/WHUMTM/computationalphysics_N2015301110096/master/Mid-term%20homework/1.gif)
 
-#帮助界面
+- 帮助界面
 
 ![2](https://raw.githubusercontent.com/WHUMTM/computationalphysics_N2015301110096/master/Mid-term%20homework/2.gif)
 
-#死亡界面
+- 死亡界面
 
 ![3](https://raw.githubusercontent.com/WHUMTM/computationalphysics_N2015301110096/master/Mid-term%20homework/3.gif)
 
-#哎~我死不了，还可以暂停（求打败）
+- 哎~我死不了，还可以暂停（求打败）
 
 ![4](https://raw.githubusercontent.com/WHUMTM/computationalphysics_N2015301110096/master/Mid-term%20homework/5.gif)
 
