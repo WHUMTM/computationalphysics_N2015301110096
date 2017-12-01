@@ -1,5 +1,6 @@
-# 蔡浩老师计算物理作业集
-彭桓武班    苗泰民   2015301110096
+蔡浩老师计算物理作业集
+====
+`彭桓武班`    `苗泰民`   `2015301110096`
 
 ------
 
@@ -20,6 +21,7 @@
 第八次作业链接： [Exercise8: The Billiard Porblem](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Exercise_08/readme.md)
 
 
-期中作业链接：[pygame:Flappy Bird](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Mid-term%20homework/readme)
+期中作业链接：[pygame:Flappy Bird](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Mid-term%20homework/readme.md)[12月1日有重大更新，望老师务必查看！！！！！]
+- 增加作业报告，并优化游戏完成度
 
 第九次作业链接：[Exercise9: three-body problem](https://www.zybuluo.com/TimMu/note/971068)
