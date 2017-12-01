@@ -16,9 +16,9 @@
 
 运行
 ---------
-[点击此处](https://github.com/WHUMTM/computationalphysics_N2015301110096/raw/master/Mid-term%20homework/FlappyBird.7z)下载游戏程序，
+*[点击此处](https://github.com/WHUMTM/computationalphysics_N2015301110096/raw/master/Mid-term%20homework/FlappyBird.7z)下载游戏程序，
 解压后运行flappybrid.py程序即可
-或者从[素材池](https://github.com/WHUMTM/computationalphysics_N2015301110096/tree/master/Mid-term%20homework)中找到FlappyBrid.7z下载同样操作运行即可
+*或者从[素材池](https://github.com/WHUMTM/computationalphysics_N2015301110096/tree/master/Mid-term%20homework)中找到FlappyBrid.7z下载同样操作运行即可
 
 
 玩法
