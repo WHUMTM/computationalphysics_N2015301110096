@@ -21,3 +21,5 @@
 
 
 期中作业链接：[pygame:Flappy Bird](https://github.com/WHUMTM/computationalphysics_N2015301110096/blob/master/Mid-term%20homework/readme)
+
+第九次作业链接：[Exercise9: three-body problem](https://www.zybuluo.com/TimMu/note/971068)
