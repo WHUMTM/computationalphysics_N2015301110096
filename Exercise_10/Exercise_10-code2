@@ -92,4 +92,14 @@ C = plt.contour(X, Y, Z, 10, colors='black')
 plt.clabel(C, inline=1, fontsize=10)
 plt.title(r'Electric Potential Distribution the two square field')
 
+EY,EX=np.gradient(Z)
+EX,EY=-EX,-EY
+R=np.sqrt(EX**2+EY**2)
+plt.quiver(X,Y,EX,EY,R)
+plt.quiver(X,Y,EX,EY, edgecolor='k', facecolor='none', linewidth=.3)
+plt.title(r'Electric Field Distribution the two square field')
+plt.xlabel('x/m'),plt.ylabel('y/m'),
+plt.xlim(-1.,1.), plt.xticks([])
+plt.ylim(-1.,1.), plt.yticks([])
+
 plt.show()
