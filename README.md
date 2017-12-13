@@ -27,3 +27,5 @@
 
 
 第十次作业链接：[Exercise10: Electric Potentials](https://www.zybuluo.com/TimMu/note/979091)
+
+第十一次作业链接：[Exercise11：Waves on a String](https://www.zybuluo.com/TimMu/note/983926)
