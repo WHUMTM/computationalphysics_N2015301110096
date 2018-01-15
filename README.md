@@ -29,3 +29,7 @@
 第十次作业链接：[Exercise10: Electric Potentials](https://www.zybuluo.com/TimMu/note/979091)
 
 第十一次作业链接：[Exercise11：Waves on a String](https://www.zybuluo.com/TimMu/note/983926)
+
+=======
+
+期末作业下载：[Final homework: Ising model](https://github.com/WHUMTM/computationalphysics_N2015301110096/raw/master/Final/%E8%AE%A1%E7%AE%97%E7%89%A9%E7%90%86%E6%9C%9F%E6%9C%AB%E4%BD%9C%E4%B8%9A--2015301110096%20%E8%8B%97%E6%B3%B0%E6%B0%91.pdf)
